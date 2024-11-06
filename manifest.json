@@ -1,0 +1,9 @@
+{
+  "domain": "vodarenska",
+  "name": "Vodarenska",
+  "documentation": "https://www.example.com",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@Bojkas1985"],
+  "version": "1.0.0"
+}
